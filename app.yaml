@@ -4,9 +4,9 @@ handlers:
   - url: /styles
     static_dir: styles
 
-  - url: https://storage.cloud.google.com/my-project-nurrapi-385700.appspot.com/fotodiri%20(2).jpeg?authuser=2
+  - url: gs://my-project-nurrapi-385700.appspot.com/fotodiri (2).jpeg
     static_files: images/\1
-    upload: https://storage.cloud.google.com/my-project-nurrapi-385700.appspot.com/fotodiri%20(2).jpeg?authuser=2
+    upload: gs://my-project-nurrapi-385700.appspot.com/fotodiri (2).jpeg
 
-  - url: https://storage.cloud.google.com/my-project-nurrapi-385700.appspot.com/fotodiri%20(2).jpeg?authuser=2
+  - url: gs://my-project-nurrapi-385700.appspot.com/fotodiri (2).jpeg
     script: index.php
