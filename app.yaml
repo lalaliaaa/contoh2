@@ -8,5 +8,5 @@ handlers:
     static_files: images/\1
     upload: https://storage.cloud.google.com/my-project-nurrapi-385700.appspot.com/fotodiri%20(2).jpeg?authuser=2
 
-  - url: /.*
+  - url: https://storage.cloud.google.com/my-project-nurrapi-385700.appspot.com/fotodiri%20(2).jpeg?authuser=2
     script: index.php
