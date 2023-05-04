@@ -17,6 +17,7 @@
                 <h2>About Me</h2>
                 <figure>
                     <img src="https://storage.cloud.google.com/my-project-nurrapi-385700.appspot.com/fotodiri%20(2).jpeg?authuser=2">
+                    width: 100px;                                                                                                                
                 </figure> 
             </header>
             <section>
